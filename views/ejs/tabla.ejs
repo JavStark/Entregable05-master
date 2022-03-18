@@ -1,0 +1,28 @@
+<% if (hayProds) { %>
+  <table class="table">
+    <a style="grid-column: 4/5;" class="link" href="http://localhost:8080">Cargar Producto</a>
+
+  <tr>
+   <th scope="col">#</th>
+    <th scope="col">Nombre</th>
+    <th scope="col">Precio</th>
+    <th scope="col">Foto</th>
+  </tr>
+  <%productos.forEach(function(prod) { %>
+  <tr>
+    <td>
+      <%=prod.title%>
+    </td>
+    <td>
+      <%=prod.price%>
+    </td>
+    <td> 
+      <img width='50' src=<%=prod.thumbnail %> alt='not found'> 
+     </td>
+  </tr>
+  <%});%>
+      
+</table>
+      <% } else { %>
+      <p>Sin productos</p>
+     <% } %>

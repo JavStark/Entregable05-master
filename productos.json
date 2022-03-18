@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+  },
+  {
+    "id": 2,
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+  },
+  {
+    "id": 3,
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+  },
+  {
+    "Nombre": "asdasdyrtyrty",
+    "Precio": "342",
+    "Thumbnail": "http://sdsad.com/dasd.jpg",
+    "id": 4
+  },
+  {
+    "Nombre": "holaaaaa",
+    "Precio": "342",
+    "Thumbnail": "http://sdsad.com/dasd.jpg",
+    "id": 5
+  },
+  {
+    "Nombre": "holaaaaa",
+    "Precio": "342",
+    "Thumbnail": "http://sdsad.com/dasd.jpg",
+    "id": 6
+  },
+  {
+    "Nombre": "holaaaaa",
+    "Precio": "342",
+    "Thumbnail": "http://sdsad.com/dasd.jpg",
+    "id": 7
+  },
+  {
+    "title": "cccccccc",
+    "price": "32423",
+    "thumbnail": "http://fsf.com/sdf.jpg",
+    "id": 8
+  },
+  {
+    "title": "cuaderno",
+    "price": "123",
+    "thumbnail": "",
+    "id": 9
+  },
+  {
+    "title": "javier",
+    "price": "150",
+    "thumbnail": "https://www.ambientum.com/wp-content/uploads/2019/09/lapiz-696x348.png",
+    "id": 10
+  },
+  {
+    "title": "cable",
+    "price": "15.5",
+    "thumbnail": "nan",
+    "id": 11
+  }
+]
